@@ -17,13 +17,13 @@ Hi there! I’m a results-driven Software Developer passionate about building sc
 
 - 📌 **API Development & Optimisation** – RESTful APIs built with Django, .NET Core, and C#.
 - 📌 **DevOps & Deployment** – Projects incorporating Docker, CI/CD, and cloud-based deployments.
-- 
+
 🔍 I’m always open to collaboration, discussions, and exciting projects. Let’s build something impactful!
 </p><br/>
 
 - 📧 **Email**: [snelisile@hotmail.com](mailto:snelisile@hotmail.com)
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/snelisile-makhanya)
-- 
+
 </p><br/>
 
 <h2 align="left" id="macropower-tech">I Code With</h2>
@@ -38,11 +38,29 @@ Hi there! I’m a results-driven Software Developer passionate about building sc
       </a>
       <br>Python
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/c-sharp.jpg" width="48" height="48" alt="python" />
+      </a>
+      <br>C-Sharp
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/django.png" width="48" height="48" alt="django" />
       </a>
       <br>Django
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/net-core.jpg" width="48" height="48" alt="python" />
+      </a>
+      <br>.Net Core
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sql-server.jpg" width="48" height="48" alt="python" />
+      </a>
+      <br>SQLServer
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
