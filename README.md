@@ -17,8 +17,7 @@ Hi there! I’m a results-driven Software Developer passionate about building sc
 
 - 📌 **API Development & Optimisation** – RESTful APIs built with Django, .NET Core, and C#.
 - 📌 **DevOps & Deployment** – Projects incorporating Docker, CI/CD, and cloud-based deployments.
-- 📌 **Data Science Foundations** – Expanding into Python for Data Science and analytics.
-
+- 
 🔍 I’m always open to collaboration, discussions, and exciting projects. Let’s build something impactful!
 </p><br/>
 
