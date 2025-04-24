@@ -3,8 +3,8 @@
 <h1 align="left" id="macropower-title"> I'm Snelisile Makhanya – Software Developer | Back-End </h1>
 
 <p> 
-Hi there! I’m a results-driven Software Developer passionate about building scalable, high-performance back-end systems and data-driven applications. With expertise in Python, C#, .NET Core, Django, and SQL, I specialise in API design, system optimisation, and automation, crafting robust solutions tailored for various industries.
-
+Hi there! I’m a results-driven Software Developer passionate about building scalable, high-performance back-end systems and data-driven applications. With expertise in Python, C#, .NET Core, Django, and SQL, I specialise in system optimisation, automation, and crafting robust software solutions tailored to real-world needs across different industries.
+  
 💡 <strong>What I Bring to the Table:</strong>
 
 - 🔹 **Back-End Development** – Architecting efficient, maintainable, and scalable applications using Django, .NET Core, and ASP.NET.
