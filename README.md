@@ -15,9 +15,6 @@ Hi there! I’m a results-driven Software Developer passionate about building sc
 
 🚀 <strong>What You’ll Find in My Repos:</strong>
 
-- 📌 **API Development & Optimisation** – RESTful APIs built with Django, .NET Core, and C#.
-- 📌 **DevOps & Deployment** – Projects incorporating Docker, CI/CD, and cloud-based deployments.
-
 🔍 I’m always open to collaboration, discussions, and exciting projects. Let’s build something impactful!
 </p><br/>
 
